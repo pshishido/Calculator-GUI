@@ -1,6 +1,6 @@
 # Evaluator Expression and GUI
 
-A user-friendly Calculator that handles binary operations utilizing stack data structure. A GUI was implemented as well.
+A user-friendly expression evaluator that handles binary operations that is implemented using good programming practices that promote extensibility and embraces encapsulation. A GUI was implemented as well.
 
 # Introduction:
 
